@@ -29,26 +29,22 @@ Server cph-c06.ipvanish.com in Copenhagen,Denmark is at 31%
 ```
 
 ### Installation
-Just clone the repo
+The only pre-req is to have python3 installed, so if python3 is installed, simply just clone the repo
 ```
 git clone https://github.com/justdanyul/ipvanish-server-capacity.git
 ```
-run the setup.py as follows
+and run the setup.py as follows
 ```
 sudo python3 setup.py setup
 ```
-and you are done.
+After this, when opening a new terminal you should have the command `ipvcap` at your disposal.
 
-### Usage
-Show help
-```
-ipvcap -h
-```
-Display capacity across all servers
+### Basic usage
+To display capacity across all servers, type the folowing in a terminal
 ```
 ipvcap
 ```
-Filter servers based on country
+Now, if you wish to filter the list of servers, based on country, add the `-c` argument as follows
 ```
 ipvcap -c COUNTRY
 ```
@@ -56,3 +52,4 @@ notice, if you are filtering based on country, remember quotes for country names
 ```
 ipvcap -c "United Kingdom"
 ```
+and finally, to get help, use `ipvcap -h` or `ipvcap --help`
