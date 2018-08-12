@@ -1,0 +1,1 @@
+# ipvanish-server-capacity
