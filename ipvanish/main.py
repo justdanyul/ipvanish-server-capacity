@@ -8,7 +8,7 @@ def print_results(results):
 
 
 def main():
-    parser = argparse.ArgumentParser(prog='ipvanish-status', description='Prints the status of IPVanish servers.')
+    parser = argparse.ArgumentParser(prog='ipvcap', description='Prints the status of IPVanish servers.')
     parser.add_argument('-c', '--country', help='Show servers in this country only')
     args = parser.parse_args()
 
