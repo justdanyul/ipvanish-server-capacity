@@ -1,0 +1,490 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.21152,
+        49.62658
+      ]
+    },
+    "properties": {
+      "title": "Luxembourg, Luxembourg",
+      "hostname": "lux-c01.ipvanish.com",
+      "ip": "94.242.205.146",
+      "capacity": 12,
+      "online": true,
+      "visible": true,
+      "city": "Luxembourg",
+      "countryCode": "LU",
+      "country": "Luxembourg",
+      "regionCode": "03",
+      "latitude": "49.6265800",
+      "longitude": "6.2115200",
+      "region": "",
+      "regionAbbr": "",
+      "continent": "Europe",
+      "continentCode": "EU",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.44778,
+        38.95173
+      ]
+    },
+    "properties": {
+      "title": "Ashburn, United States",
+      "hostname": "iad-a05.ipvanish.com",
+      "ip": "173.245.203.21",
+      "capacity": 18,
+      "online": true,
+      "visible": true,
+      "city": "Ashburn",
+      "countryCode": "US",
+      "country": "United States",
+      "regionCode": "VA",
+      "latitude": "38.9517300",
+      "longitude": "-77.4477800",
+      "region": "Virginia",
+      "regionAbbr": "VA",
+      "continent": "North America",
+      "continentCode": "NA",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+
+
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.76028,
+        52.3103
+      ]
+    },
+    "properties": {
+      "title": "Amsterdam, Netherlands",
+      "hostname": "ams-a22.ipvanish.com",
+      "ip": "81.171.81.11",
+      "capacity": 18,
+      "online": true,
+      "visible": true,
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "regionCode": "07",
+      "latitude": "52.3103000",
+      "longitude": "4.7602800",
+      "region": "",
+      "regionAbbr": "",
+      "continent": "Europe",
+      "continentCode": "EU",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.76028,
+        52.3103
+      ]
+    },
+    "properties": {
+      "title": "Amsterdam, Netherlands",
+      "hostname": "ams-a24.ipvanish.com",
+      "ip": "81.171.81.13",
+      "capacity": 35,
+      "online": true,
+      "visible": true,
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "regionCode": "07",
+      "latitude": "52.3103000",
+      "longitude": "4.7602800",
+      "region": "",
+      "regionAbbr": "",
+      "continent": "Europe",
+      "continentCode": "EU",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.45649,
+        51.47115
+      ]
+    },
+    "properties": {
+      "title": "London, United Kingdom",
+      "hostname": "lon-a20.ipvanish.com",
+      "ip": "81.171.74.12",
+      "capacity": 15,
+      "online": true,
+      "visible": true,
+      "city": "London",
+      "countryCode": "GB",
+      "country": "United Kingdom",
+      "regionCode": "ENG",
+      "latitude": "51.4711500",
+      "longitude": "-0.4564900",
+      "region": "",
+      "regionAbbr": "",
+      "continent": "Europe",
+      "continentCode": "EU",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+  
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.55603,
+        50.0406
+      ]
+    },
+    "properties": {
+      "title": "Frankfurt, Germany",
+      "hostname": "fra-a18.ipvanish.com",
+      "ip": "81.171.58.43",
+      "capacity": 10,
+      "online": true,
+      "visible": true,
+      "city": "Frankfurt",
+      "countryCode": "DE",
+      "country": "Germany",
+      "regionCode": "05",
+      "latitude": "50.0406000",
+      "longitude": "8.5560300",
+      "region": "",
+      "regionAbbr": "",
+      "continent": "Europe",
+      "continentCode": "EU",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.55603,
+        50.0406
+      ]
+    },
+    "properties": {
+      "title": "Frankfurt, Germany",
+      "hostname": "fra-a20.ipvanish.com",
+      "ip": "81.171.58.6",
+      "capacity": 19,
+      "online": true,
+      "visible": true,
+      "city": "Frankfurt",
+      "countryCode": "DE",
+      "country": "Germany",
+      "regionCode": "05",
+      "latitude": "50.0406000",
+      "longitude": "8.5560300",
+      "region": "",
+      "regionAbbr": "",
+      "continent": "Europe",
+      "continentCode": "EU",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.55603,
+        50.0406
+      ]
+    },
+    "properties": {
+      "title": "Frankfurt, Germany",
+      "hostname": "fra-a22.ipvanish.com",
+      "ip": "81.171.58.8",
+      "capacity": 9,
+      "online": true,
+      "visible": true,
+      "city": "Frankfurt",
+      "countryCode": "DE",
+      "country": "Germany",
+      "regionCode": "05",
+      "latitude": "50.0406000",
+      "longitude": "8.5560300",
+      "region": "",
+      "regionAbbr": "",
+      "continent": "Europe",
+      "continentCode": "EU",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.55603,
+        50.0406
+      ]
+    },
+    "properties": {
+      "title": "Frankfurt, Germany",
+      "hostname": "fra-a24.ipvanish.com",
+      "ip": "81.171.58.10",
+      "capacity": 11,
+      "online": true,
+      "visible": true,
+      "city": "Frankfurt",
+      "countryCode": "DE",
+      "country": "Germany",
+      "regionCode": "05",
+      "latitude": "50.0406000",
+      "longitude": "8.5560300",
+      "region": "",
+      "regionAbbr": "",
+      "continent": "Europe",
+      "continentCode": "EU",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.55603,
+        50.0406
+      ]
+    },
+    "properties": {
+      "title": "Frankfurt, Germany",
+      "hostname": "fra-a26.ipvanish.com",
+      "ip": "81.171.58.12",
+      "capacity": 10,
+      "online": true,
+      "visible": true,
+      "city": "Frankfurt",
+      "countryCode": "DE",
+      "country": "Germany",
+      "regionCode": "05",
+      "latitude": "50.0406000",
+      "longitude": "8.5560300",
+      "region": "",
+      "regionAbbr": "",
+      "continent": "Europe",
+      "continentCode": "EU",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.61286,
+        43.68066
+      ]
+    },
+    "properties": {
+      "title": "Toronto, Canada",
+      "hostname": "tor-a03.ipvanish.com",
+      "ip": "216.151.184.16",
+      "capacity": 13,
+      "online": true,
+      "visible": true,
+      "city": "Toronto",
+      "countryCode": "CA",
+      "country": "Canada",
+      "regionCode": "08",
+      "latitude": "43.6806600",
+      "longitude": "-79.6128600",
+      "region": "Ontario",
+      "regionAbbr": "ON",
+      "continent": "North America",
+      "continentCode": "NA",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.61286,
+        43.68066
+      ]
+    },
+    "properties": {
+      "title": "Toronto, Canada",
+      "hostname": "tor-a05.ipvanish.com",
+      "ip": "216.151.184.18",
+      "capacity": 14,
+      "online": true,
+      "visible": true,
+      "city": "Toronto",
+      "countryCode": "CA",
+      "country": "Canada",
+      "regionCode": "08",
+      "latitude": "43.6806600",
+      "longitude": "-79.6128600",
+      "region": "Ontario",
+      "regionAbbr": "ON",
+      "continent": "North America",
+      "continentCode": "NA",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.61286,
+        43.68066
+      ]
+    },
+    "properties": {
+      "title": "Toronto, Canada",
+      "hostname": "tor-a07.ipvanish.com",
+      "ip": "216.151.184.20",
+      "capacity": 18,
+      "online": true,
+      "visible": true,
+      "city": "Toronto",
+      "countryCode": "CA",
+      "country": "Canada",
+      "regionCode": "08",
+      "latitude": "43.6806600",
+      "longitude": "-79.6128600",
+      "region": "Ontario",
+      "regionAbbr": "ON",
+      "continent": "North America",
+      "continentCode": "NA",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.90446,
+        41.97959
+      ]
+    },
+    "properties": {
+      "title": "Chicago, United States",
+      "hostname": "chi-c02.ipvanish.com",
+      "ip": "185.246.209.38",
+      "capacity": 13,
+      "online": true,
+      "visible": true,
+      "city": "Chicago",
+      "countryCode": "US",
+      "country": "United States",
+      "regionCode": "IL",
+      "latitude": "41.9795900",
+      "longitude": "-87.9044600",
+      "region": "Illinois",
+      "regionAbbr": "IL",
+      "continent": "North America",
+      "continentCode": "NA",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.90446,
+        41.97959
+      ]
+    },
+    "properties": {
+      "title": "Chicago, United States",
+      "hostname": "chi-c03.ipvanish.com",
+      "ip": "185.246.209.40",
+      "capacity": 19,
+      "online": true,
+      "visible": true,
+      "city": "Chicago",
+      "countryCode": "US",
+      "country": "United States",
+      "regionCode": "IL",
+      "latitude": "41.9795900",
+      "longitude": "-87.9044600",
+      "region": "Illinois",
+      "regionAbbr": "IL",
+      "continent": "North America",
+      "continentCode": "NA",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.90446,
+        41.97959
+      ]
+    },
+    "properties": {
+      "title": "Chicago, United States",
+      "hostname": "chi-c04.ipvanish.com",
+      "ip": "185.246.209.42",
+      "capacity": 28,
+      "online": true,
+      "visible": true,
+      "city": "Chicago",
+      "countryCode": "US",
+      "country": "United States",
+      "regionCode": "IL",
+      "latitude": "41.9795900",
+      "longitude": "-87.9044600",
+      "region": "Illinois",
+      "regionAbbr": "IL",
+      "continent": "North America",
+      "continentCode": "NA",
+      "marker-color": "#6EBC44",
+      "marker-cluster-small": "#6EBC44"
+    }
+  }
+]
