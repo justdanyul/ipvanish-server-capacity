@@ -35,7 +35,7 @@ git clone https://github.com/justdanyul/ipvanish-server-capacity.git
 ```
 and run the setup.py as follows
 ```
-sudo python3 setup.py setup
+sudo python3 setup.py install
 ```
 After this, when opening a new terminal you should have the command `ipvcap` at your disposal.
 
